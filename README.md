@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### This is Hower, a fonter-end learner ⚡
 <!--
 **Hower454516977/Hower454516977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
